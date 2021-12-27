@@ -1,0 +1,10 @@
+.todoList {
+    background-color: var(--clr-white);
+    width: 50%;
+    height: 100%;
+    border-radius: 1rem;
+    padding: 1rem;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin-top: 1rem;
+}

@@ -1,0 +1,13 @@
+.todoItem {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 1rem;
+  background-color: var(--clr-light-grayish-cyan);
+  border-radius: 1rem;
+  color: var(--clr-dark-cyan);
+}
+
+.todoItem--done {
+  text-decoration: line-through;
+}
